@@ -1,0 +1,7 @@
+[submodule "kernel/hilt"]
+    path="kernel/hilt"
+    url=git@github.com:zhi-venus/venus-hilt.git
+
+[submodule "apps/nia"]
+    path="apps/nia"
+    url=git@github.com:zhi-venus/venus-app-nia.git
